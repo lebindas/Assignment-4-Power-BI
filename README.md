@@ -1,6 +1,6 @@
 # Assignment - 4 - Power-BI
                                                   ## DAX & DATA VISUALIZATION - POWER BI
-Calculated Columns:
+**Calculated Columns:**
 
 ● Create a Calculated Column for 'Category Type': Add a calculated column in the
 Order Details table that combines the 'Category' and 'Sub-Category' columns into a
@@ -20,7 +20,7 @@ Average' or 'Below Average' based on the Amount value.
           On "New Column" Created "Sales Catogory" Column and used "IF" and "Average" to Categorize as Above and Below
 
 
-Calculated Measures:
+**Calculated Measures:**
 
 ● Calculate Order Count: Define a measure to count the total number of orders in the
 Order Details table.
@@ -40,7 +40,7 @@ amount accumulated from the earliest order date up to each order date.
 
 
 
-Data Visualization:
+**Data Visualization:**
 
 ● Sales Target Achievement by Category: Compare actual sales with sales targets by category using a clustered column chart.
 
