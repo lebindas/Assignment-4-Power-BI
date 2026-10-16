@@ -1,13 +1,12 @@
-#Assignment - 4 - Power-BI
-                                              ##DAX & amp; Data Visualization - Power BI
-
+# Assignment - 4 - Power-BI
+                                                   ## DAX & DATA VISUALIZATION - POWER BI
 Calculated Columns:
 
 ● Create a Calculated Column for 'Category Type': Add a calculated column in the
 Order Details table that combines the 'Category' and 'Sub-Category' columns into a
 single 'Category Type' column.
 
-          On "New Column" Created "Category Type" Column and Combined Category + Sub-category
+          * On "New Column" Created "Category Type" Column and Combined Category + Sub-category
 
 ● Calculate Revenue per Order in Order Details Table: Create a calculated column in
 the Order Details table to compute the revenue (Amount * Quantity) per order.
