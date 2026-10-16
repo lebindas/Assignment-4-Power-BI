@@ -1,5 +1,5 @@
 # Assignment - 4 - Power-BI
-                                                   DAX & DATA VISUALIZATION - POWER BI
+                                                  ## DAX & DATA VISUALIZATION - POWER BI
 Calculated Columns:
 
 ● Create a Calculated Column for 'Category Type': Add a calculated column in the
